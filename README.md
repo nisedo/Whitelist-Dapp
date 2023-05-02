@@ -18,7 +18,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://raw.githubusercontent.com/nisedo/Whitelist-Dapp/640edde51a08b9b433b3e2ab7bf404f23a41d3cc/public/crypto-devs.svg">
+  <a href="https://whitelist-dapp-chi-seven.vercel.app/crypto-devs.svg">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
